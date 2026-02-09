@@ -7,7 +7,6 @@ This project aims to develop predictive models for paroxysmal atrial fibrillatio
 ```
 Paroxysmal-Atrial-Fibrillation/
 ├── data/
-│   ├── raw/            # Original, immutable data dump.
 │   └── processed/      # Cleaned data sets for analysis.
 ├── notebooks/          # Jupyter notebooks for exploratory data analysis and model training.
 ├── src/               # Source code for the project.
